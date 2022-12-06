@@ -68,12 +68,19 @@ h1 {
 
 /* Section & Paragraph */
 
+section {}
+
+p{}
 
 
 /* Image & Figure */
 
+img {}
 
+figure {}
+
+figcaption {}
 
 /* Footer */
 
-
+footer {}
