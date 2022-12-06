@@ -79,15 +79,24 @@ header, footer {
 
 /* Imported Typfaces */
 
-@font-face {}
+    @font-face {
+
+        font-family:Coolfont;
+        src: url(../fonts/coolfont-regular.ttf) format('truetype')
+        fontweight:normal;
+        fontweight:normal;
+    }
 @font-face {}
 
 
 /* Typography Styles */
 
-html {}
+    html {}
 
-h1 {}
+    h1 {
+        font-family: Coolfont, Arial, sans-serif;
+        
+     }
 
 h2 {}
 
